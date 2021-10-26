@@ -23,6 +23,12 @@
       "text": "Car appointment",
       "day": "May 7th at 12:30pm",
       "reminder": true
+    },
+    {
+      "text": "be a beast",
+      "day": "tomorrow",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
